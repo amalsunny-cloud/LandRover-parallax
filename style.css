@@ -72,7 +72,7 @@ body{
 }
 .nav-rem li:hover{
     /* background-color: rgba(226, 226, 226, 0.303); */
-    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    text-shadow: 1px 1px 5px rgba(48, 48, 48, 0.3);
 
 }
 
